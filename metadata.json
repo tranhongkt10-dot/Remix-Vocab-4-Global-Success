@@ -1,8 +1,0 @@
-{
-  "name": "Remix Vocab 4 – Global Success",
-  "description": "Ứng dụng hỗ trợ học sinh lớp 4 học từ vựng và phát âm tiếng Anh chuẩn chương trình Global Success.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
